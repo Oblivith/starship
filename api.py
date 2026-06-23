@@ -89,6 +89,9 @@ async def global_exception_handler(request: Request, exc: Exception):
 # ---------------------------------
 
 def get_conn():
+    database_url = os.environ.get("DATABASE_URL")
+    if database_url:
+        return psycopg2.connect(database_url, sslmode="require")
     return psycopg2.connect(**DB_CONFIG)
 
 def student_exists(cur, student_id: int) -> bool:
