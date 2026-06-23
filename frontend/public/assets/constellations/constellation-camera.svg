@@ -1,0 +1,54 @@
+<svg viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg" class="constellation" data-name="Camera">
+  <g class="constellation-lines" opacity="0">
+    <!-- Camera body rectangle -->
+    <line x1="25" y1="55" x2="175" y2="55" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="175" y1="55" x2="175" y2="140" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="175" y1="140" x2="25" y2="140" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="25" y1="140" x2="25" y2="55" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Top bump (viewfinder/hotshoe) -->
+    <line x1="70" y1="55" x2="70" y2="35" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="70" y1="35" x2="130" y2="35" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="130" y1="35" x2="130" y2="55" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Lens circle - outer -->
+    <line x1="100" y1="68" x2="118" y2="72" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="118" y1="72" x2="128" y2="87" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="128" y1="87" x2="124" y2="105" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="124" y1="105" x2="108" y2="115" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="108" y1="115" x2="90" y2="115" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="90" y1="115" x2="74" y2="105" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="74" y1="105" x2="68" y2="87" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="68" y1="87" x2="78" y2="72" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="78" y1="72" x2="100" y2="68" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Shutter button -->
+    <line x1="148" y1="55" x2="148" y2="48" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="143" y1="48" x2="153" y2="48" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+  </g>
+  <g class="constellation-stars">
+    <!-- Body corners -->
+    <circle cx="25" cy="55" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="175" cy="55" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="175" cy="140" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="25" cy="140" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <!-- Viewfinder -->
+    <circle cx="70" cy="35" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="130" cy="35" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="70" cy="55" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="130" cy="55" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <!-- Lens ring stars -->
+    <circle cx="100" cy="68" r="2.2" fill="#E8E4FF" opacity="0.75"/>
+    <circle cx="118" cy="72" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="128" cy="87" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="124" cy="105" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="108" cy="115" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="90" cy="115" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="74" cy="105" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="68" cy="87" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="78" cy="72" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <!-- Center lens bright star -->
+    <circle cx="100" cy="91" r="3.5" fill="#F0EEFF" opacity="0.95"/>
+    <!-- Shutter -->
+    <circle cx="148" cy="48" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="143" cy="48" r="1.5" fill="#E8E4FF" opacity="0.5"/>
+    <circle cx="153" cy="48" r="1.5" fill="#E8E4FF" opacity="0.5"/>
+  </g>
+</svg>

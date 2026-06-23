@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "starship-frontend",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/vineetmalhotra/Desktop/career_ai_system/frontend && PATH=/opt/homebrew/bin:$PATH exec npm run dev"],
+      "port": 5173,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,0 +1,6832 @@
+[
+  {
+    "id": 1,
+    "question_id": 1,
+    "question_text": "I enjoy fixing things when they stop working.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 1,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 2,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 3,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 4,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 5,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_id": 2,
+    "question_text": "Hands-on activities are usually more interesting to me than only discussing ideas.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 6,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 7,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 8,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 9,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 10,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_id": 3,
+    "question_text": "If something at home stopped working, I would probably try fixing it myself first.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 11,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 12,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 13,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 14,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 15,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_id": 4,
+    "question_text": "I enjoy learning how machines or devices work.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 16,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 17,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 18,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 19,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 20,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_id": 5,
+    "question_text": "Building or assembling something feels satisfying to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 21,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 22,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 23,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 24,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 25,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_id": 6,
+    "question_text": "I would rather work on a practical task than only study theory for hours.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 26,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 27,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 28,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 29,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 30,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_id": 7,
+    "question_text": "When solving problems, I usually prefer testing things directly.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "realistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 31,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 32,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 33,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 34,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 35,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_id": 8,
+    "question_text": "I enjoy figuring out why problems happen.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 36,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 37,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 38,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 39,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 40,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_id": 9,
+    "question_text": "Finding patterns in information or data interests me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 41,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 42,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 43,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 44,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 45,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_id": 10,
+    "question_text": "When I learn something new, I usually want to understand how it works deeply.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 46,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 47,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 48,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 49,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 50,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_id": 11,
+    "question_text": "Difficult questions that require careful thinking are interesting to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 51,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 52,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 53,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 54,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 55,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_id": 12,
+    "question_text": "If two answers conflict, I usually try analyzing both before deciding.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 56,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 57,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 58,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 59,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 60,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_id": 13,
+    "question_text": "I enjoy understanding systems step by step.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 61,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 62,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 63,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 64,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 65,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_id": 14,
+    "question_text": "I often keep thinking about interesting problems even after finishing them.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "investigative_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 66,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 67,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 68,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 69,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 70,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_id": 15,
+    "question_text": "I enjoy expressing ideas in creative ways.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 71,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 72,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 73,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 74,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 75,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_id": 16,
+    "question_text": "Creating something original feels rewarding to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 76,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 77,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 78,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 79,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 80,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_id": 17,
+    "question_text": "If given freedom on a project, I usually try making it unique.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 81,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 82,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 83,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 84,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 85,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_id": 18,
+    "question_text": "I often think of different ways to approach tasks.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 86,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 87,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 88,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 89,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 90,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_id": 19,
+    "question_text": "Creative freedom is important in the kind of work I would want.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 91,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 92,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 93,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 94,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 95,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_id": 20,
+    "question_text": "I enjoy activities involving imagination or design.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 96,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 97,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 98,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 99,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 100,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_id": 21,
+    "question_text": "When solving problems, I sometimes think of unusual solutions others may not notice.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "artistic_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 101,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 102,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 103,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 104,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 105,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_id": 22,
+    "question_text": "Helping people solve problems feels meaningful to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 106,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 107,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 108,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 109,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 110,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_id": 23,
+    "question_text": "If someone is struggling to understand something, I usually try helping.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 111,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 112,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 113,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 114,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 115,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_id": 24,
+    "question_text": "I enjoy explaining ideas to other people.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 116,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 117,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 118,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 119,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 120,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_id": 25,
+    "question_text": "Supporting or encouraging others feels rewarding to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 121,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 122,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 123,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 124,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 125,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question_id": 26,
+    "question_text": "I usually notice when someone around me is upset or uncomfortable.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 126,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 127,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 128,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 129,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 130,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question_id": 27,
+    "question_text": "Working with people often feels more motivating than working completely alone.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 131,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 132,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 133,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 134,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 135,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question_id": 28,
+    "question_text": "I would enjoy guiding or mentoring others.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "social_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 136,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 137,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 138,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 139,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 140,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question_id": 29,
+    "question_text": "I enjoy taking initiative during group activities.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 141,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 142,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 143,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 144,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 145,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question_id": 30,
+    "question_text": "Leading a project or team sounds exciting to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 146,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 147,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 148,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 149,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 150,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question_id": 31,
+    "question_text": "During team activities, I often naturally begin organizing tasks.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 151,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 152,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 153,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 154,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 155,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question_id": 32,
+    "question_text": "I enjoy situations where my decisions influence outcomes.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 156,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 157,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 158,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 159,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 160,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question_id": 33,
+    "question_text": "Competitive environments usually motivate me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 161,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 162,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 163,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 164,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 165,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question_id": 34,
+    "question_text": "If a group has no clear direction, I often feel like stepping in.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 166,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 167,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 168,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 169,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 170,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question_id": 35,
+    "question_text": "I would enjoy building or managing something important in the future.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "enterprising_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 171,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 172,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 173,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 174,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 175,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question_id": 36,
+    "question_text": "Clear plans and organized systems make work easier for me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 176,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 177,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 178,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 179,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 180,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question_id": 37,
+    "question_text": "I like keeping tasks, schedules, or information organized.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 181,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 182,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 183,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 184,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 185,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question_id": 38,
+    "question_text": "Messy systems or unclear instructions frustrate me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 186,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 187,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 188,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 189,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 190,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question_id": 39,
+    "question_text": "I usually feel more comfortable when expectations are clearly defined.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 191,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 192,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 193,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 194,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 195,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question_id": 40,
+    "question_text": "Accuracy and attention to detail are important to me.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 196,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 197,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 198,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 199,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 200,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question_id": 41,
+    "question_text": "If instructions are unclear, I usually want proper structure before starting.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 201,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 202,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 203,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 204,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 205,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question_id": 42,
+    "question_text": "Organized environments help me work more effectively.",
+    "section": "interest",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "conventional_interest": 1.0
+    },
+    "options": [
+      {
+        "option_id": 206,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 207,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 208,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 209,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 210,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question_id": 43,
+    "question_text": "I usually finish important work before relaxing.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 211,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 212,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 213,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 214,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 215,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question_id": 44,
+    "question_text": "Even when I do not feel motivated, I can still complete necessary tasks.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 216,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 217,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 218,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 219,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 220,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question_id": 45,
+    "question_text": "I often delay important work until the last moment.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 221,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 222,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 223,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 224,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 225,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question_id": 46,
+    "question_text": "When preparing for exams, I prefer following a steady routine instead of cramming suddenly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 226,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 227,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 228,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 229,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 230,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question_id": 47,
+    "question_text": "I sometimes start things seriously but lose focus after a short time.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 231,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 232,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 233,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 234,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 235,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question_id": 48,
+    "question_text": "If I set a goal for myself, I usually keep working toward it consistently.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "consistency": 1.0
+    },
+    "options": [
+      {
+        "option_id": 236,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 237,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 238,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 239,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 240,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question_id": 49,
+    "question_text": "After failing at something important, I usually try improving instead of giving up.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 241,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 242,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 243,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 244,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 245,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question_id": 50,
+    "question_text": "Pressure or setbacks can motivate me to work harder.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 246,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 247,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 248,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 249,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 250,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question_id": 51,
+    "question_text": "I lose confidence quickly after making mistakes.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 251,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 252,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 253,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 254,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 255,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question_id": 52,
+    "question_text": "If something becomes difficult, I usually keep trying before quitting.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 256,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 257,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 258,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 259,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 260,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question_id": 53,
+    "question_text": "I can stay calm even when things are not going well.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 261,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 262,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 263,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 264,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 265,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question_id": 54,
+    "question_text": "Criticism usually helps me improve instead of discouraging me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "resilience": 1.0
+    },
+    "options": [
+      {
+        "option_id": 266,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 267,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 268,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 269,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 270,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question_id": 55,
+    "question_text": "During group activities, I naturally begin organizing tasks.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 271,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 272,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 273,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 274,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 275,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question_id": 56,
+    "question_text": "I feel comfortable making decisions for a group when needed.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 276,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 277,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 278,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 279,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 280,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question_id": 57,
+    "question_text": "If nobody takes responsibility in a team, I usually step in.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 281,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 282,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 283,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 284,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 285,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question_id": 58,
+    "question_text": "I prefer avoiding responsibility during group work.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 286,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 287,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 288,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 289,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 290,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question_id": 59,
+    "question_text": "I enjoy motivating people toward goals.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 291,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 292,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 293,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 294,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 295,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question_id": 60,
+    "question_text": "Leading people feels stressful to me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "leadership": 1.0
+    },
+    "options": [
+      {
+        "option_id": 296,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 297,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 298,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 299,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 300,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question_id": 61,
+    "question_text": "I work well with people who think differently from me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 301,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 302,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 303,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 304,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 305,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question_id": 62,
+    "question_text": "During disagreements, I usually try understanding both sides first.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 306,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 307,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 308,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 309,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 310,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question_id": 63,
+    "question_text": "I prefer solving every problem alone instead of asking for help.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 311,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 312,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 313,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 314,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 315,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question_id": 64,
+    "question_text": "Teamwork often helps produce better results.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 316,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 317,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 318,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 319,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 320,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question_id": 65,
+    "question_text": "I try keeping group environments positive and cooperative.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 321,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 322,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 323,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 324,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 325,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question_id": 66,
+    "question_text": "If someone in a team is struggling, I usually notice quickly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "collaboration": 1.0
+    },
+    "options": [
+      {
+        "option_id": 326,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 327,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 328,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 329,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 330,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question_id": 67,
+    "question_text": "Clear plans and organized systems help me perform better.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 331,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 332,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 333,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 334,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 335,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question_id": 68,
+    "question_text": "I feel uncomfortable when instructions are unclear.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 336,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 337,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 338,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 339,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 340,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question_id": 69,
+    "question_text": "I prefer environments with flexibility over strict structure.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 341,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 342,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 343,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 344,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 345,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question_id": 70,
+    "question_text": "Before starting work, I usually like understanding the process clearly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 346,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 347,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 348,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 349,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 350,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question_id": 71,
+    "question_text": "Sudden changes in plans frustrate me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 351,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 352,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 353,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 354,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 355,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question_id": 72,
+    "question_text": "Organized environments help me stay focused.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "structure_preference": 1.0
+    },
+    "options": [
+      {
+        "option_id": 356,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 357,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 358,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 359,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 360,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question_id": 73,
+    "question_text": "I can adjust quickly when situations change unexpectedly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 361,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 362,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 363,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 364,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 365,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question_id": 74,
+    "question_text": "Trying new methods or approaches usually interests me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 366,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 367,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 368,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 369,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 370,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question_id": 75,
+    "question_text": "Sudden changes make it difficult for me to function effectively.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 371,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 372,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 373,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 374,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 375,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question_id": 76,
+    "question_text": "I usually adapt well to unfamiliar environments.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 376,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 377,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 378,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 379,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 380,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question_id": 77,
+    "question_text": "I enjoy learning new ways of doing things.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 381,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 382,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 383,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 384,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 385,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question_id": 78,
+    "question_text": "If a plan fails, I can usually adjust without panicking.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "adaptability": 1.0
+    },
+    "options": [
+      {
+        "option_id": 386,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 387,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 388,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 389,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 390,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question_id": 79,
+    "question_text": "I can stay focused even under pressure.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 391,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 392,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 393,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 394,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 395,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question_id": 80,
+    "question_text": "Important deadlines usually motivate me instead of overwhelming me.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 396,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 397,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 398,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 399,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 400,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question_id": 81,
+    "question_text": "Stress often affects my ability to think clearly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 401,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 402,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 403,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 404,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 405,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question_id": 82,
+    "question_text": "I can continue functioning well even during difficult periods.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 406,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 407,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 408,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 409,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 410,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question_id": 83,
+    "question_text": "High-pressure situations make me avoid tasks completely.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 411,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 412,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 413,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 414,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 415,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question_id": 84,
+    "question_text": "I usually recover emotionally after stressful situations fairly quickly.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "stress_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 416,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 417,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 418,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 419,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 420,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question_id": 85,
+    "question_text": "Before making important decisions, I usually think carefully about consequences.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 421,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 422,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 423,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 424,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 425,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question_id": 86,
+    "question_text": "I sometimes make decisions too quickly without enough thought.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 426,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 427,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 428,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 429,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 430,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question_id": 87,
+    "question_text": "I usually compare different options before deciding.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 431,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 432,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 433,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 434,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 435,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question_id": 88,
+    "question_text": "I prefer thinking through risks before taking action.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 436,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 437,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 438,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 439,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 440,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question_id": 89,
+    "question_text": "Excitement sometimes makes me act impulsively.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 441,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 442,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 443,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 444,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 445,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question_id": 90,
+    "question_text": "I usually stay logical during important decisions.",
+    "section": "behavioral",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "decision_style": 1.0
+    },
+    "options": [
+      {
+        "option_id": 446,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 447,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 448,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 449,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 450,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question_id": 91,
+    "question_text": "I would be comfortable studying consistently for several months for an important exam.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "study_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 451,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 452,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 453,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 454,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 455,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question_id": 92,
+    "question_text": "Long academic preparation periods do not discourage me easily.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "study_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 456,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 457,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 458,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 459,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 460,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question_id": 93,
+    "question_text": "If a career required years of difficult study, I would still consider it seriously.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "study_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 461,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 462,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 463,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 464,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 465,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question_id": 94,
+    "question_text": "I prefer career paths with shorter training periods.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "study_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 466,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 467,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 468,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 469,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 470,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question_id": 95,
+    "question_text": "High-pressure competitive exams motivate me to work harder.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "exam_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 471,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 472,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 473,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 474,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 475,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question_id": 96,
+    "question_text": "I can usually stay focused during important exams or deadlines.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "exam_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 476,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 477,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 478,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 479,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 480,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question_id": 97,
+    "question_text": "Repeating an exam or preparation year would feel acceptable if it improved my future opportunities.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "exam_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 481,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 482,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 483,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 484,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 485,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question_id": 98,
+    "question_text": "Careers that depend heavily on competitive exams feel too stressful to me.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "exam_tolerance": 1.0
+    },
+    "options": [
+      {
+        "option_id": 486,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 487,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 488,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 489,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 490,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question_id": 99,
+    "question_text": "I would be willing to move to another city or state for a good educational opportunity.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "mobility": 1.0
+    },
+    "options": [
+      {
+        "option_id": 491,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 492,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 493,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 494,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 495,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question_id": 100,
+    "question_text": "Living away from home for education or career growth feels manageable to me.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "mobility": 1.0
+    },
+    "options": [
+      {
+        "option_id": 496,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 497,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 498,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 499,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 500,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question_id": 101,
+    "question_text": "I would consider studying abroad if the opportunity was worthwhile.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "mobility": 1.0
+    },
+    "options": [
+      {
+        "option_id": 501,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 502,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 503,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 504,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 505,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question_id": 102,
+    "question_text": "Staying close to home is very important to me.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": true,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "mobility": 1.0
+    },
+    "options": [
+      {
+        "option_id": 506,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 507,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 508,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 509,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 510,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question_id": 103,
+    "question_text": "Lower educational cost is more important to me than prestige alone.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "budget_level": 1.0
+    },
+    "options": [
+      {
+        "option_id": 511,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 512,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 513,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 514,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 515,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question_id": 104,
+    "question_text": "I would consider taking educational loans if the long-term career outcome was strong.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "budget_level": 1.0
+    },
+    "options": [
+      {
+        "option_id": 516,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 517,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 518,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 519,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 520,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question_id": 105,
+    "question_text": "Financial stability is more important to me than pursuing a highly risky career path.",
+    "section": "constraints",
+    "question_type": "likert",
+    "difficulty": null,
+    "reverse_scored": false,
+    "expected_time_seconds": null,
+    "is_active": true,
+    "trait_weights": {
+      "budget_level": 1.0
+    },
+    "options": [
+      {
+        "option_id": 521,
+        "text": "Strongly Disagree",
+        "value": 1,
+        "is_correct": false
+      },
+      {
+        "option_id": 522,
+        "text": "Disagree",
+        "value": 2,
+        "is_correct": false
+      },
+      {
+        "option_id": 523,
+        "text": "Neutral",
+        "value": 3,
+        "is_correct": false
+      },
+      {
+        "option_id": 524,
+        "text": "Agree",
+        "value": 4,
+        "is_correct": false
+      },
+      {
+        "option_id": 525,
+        "text": "Strongly Agree",
+        "value": 5,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question_id": 106,
+    "question_text": "A shirt costs ₹1200 and is discounted by 25%. What is the final price?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 526,
+        "text": "₹800",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 527,
+        "text": "₹900",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 528,
+        "text": "₹1000",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 529,
+        "text": "₹1100",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question_id": 107,
+    "question_text": "What comes next in the sequence?\n\n2, 6, 12, 20, 30, ?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 530,
+        "text": "36",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 531,
+        "text": "40",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 532,
+        "text": "42",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 533,
+        "text": "44",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question_id": 108,
+    "question_text": "If 5 notebooks cost ₹250, how much does 1 notebook cost?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 534,
+        "text": "₹25",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 535,
+        "text": "₹40",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 536,
+        "text": "₹50",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 537,
+        "text": "₹60",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question_id": 109,
+    "question_text": "A number is multiplied by 4 and then 8 is added to get 32. What is the number?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 538,
+        "text": "4",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 539,
+        "text": "5",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 540,
+        "text": "6",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 541,
+        "text": "8",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question_id": 110,
+    "question_text": "A train travels 240 km in 4 hours. What is its average speed?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 542,
+        "text": "40 km/h",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 543,
+        "text": "50 km/h",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 544,
+        "text": "60 km/h",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 545,
+        "text": "80 km/h",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question_id": 111,
+    "question_text": "If the ratio of boys to girls in a class is 3:2 and there are 30 boys, how many girls are there?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 546,
+        "text": "15",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 547,
+        "text": "18",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 548,
+        "text": "20",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 549,
+        "text": "25",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question_id": 112,
+    "question_text": "A product price increases from ₹800 to ₹920. What is the percentage increase?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 550,
+        "text": "10%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 551,
+        "text": "12%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 552,
+        "text": "15%",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 553,
+        "text": "20%",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question_id": 113,
+    "question_text": "If 8 workers complete a task in 12 days, how many days will 16 workers take?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 554,
+        "text": "4",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 555,
+        "text": "5",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 556,
+        "text": "6",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 557,
+        "text": "8",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question_id": 114,
+    "question_text": "A student scores 72, 80, and 88 in three tests. What is the average score?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 558,
+        "text": "78",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 559,
+        "text": "80",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 560,
+        "text": "82",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 561,
+        "text": "84",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question_id": 115,
+    "question_text": "If the probability of winning a game is 1/4, what is the probability of NOT winning?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 562,
+        "text": "1/2",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 563,
+        "text": "1/3",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 564,
+        "text": "3/4",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 565,
+        "text": "4/5",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question_id": 116,
+    "question_text": "A shopkeeper marks a product at ₹2000 and gives a 10% discount. After that, a 5% tax is added. What is the final price?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 90,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 566,
+        "text": "₹1880",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 567,
+        "text": "₹1890",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 568,
+        "text": "₹1900",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 569,
+        "text": "₹1950",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question_id": 117,
+    "question_text": "What comes next in the sequence?\n\n3, 7, 15, 31, 63, ?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 570,
+        "text": "95",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 571,
+        "text": "111",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 572,
+        "text": "127",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 573,
+        "text": "135",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question_id": 118,
+    "question_text": "A car uses 8 liters of fuel for 96 km. How much fuel will it use for 240 km?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 574,
+        "text": "16 L",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 575,
+        "text": "18 L",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 576,
+        "text": "20 L",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 577,
+        "text": "24 L",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question_id": 119,
+    "question_text": "A student answered 45 out of 60 questions correctly. What percentage were correct?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 578,
+        "text": "65%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 579,
+        "text": "70%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 580,
+        "text": "75%",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 581,
+        "text": "80%",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question_id": 120,
+    "question_text": "The average of five numbers is 18. Four numbers are 12, 15, 20, and 23. What is the fifth number?",
+    "section": "numerical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 90,
+    "is_active": true,
+    "trait_weights": {
+      "numerical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 582,
+        "text": "18",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 583,
+        "text": "20",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 584,
+        "text": "22",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 585,
+        "text": "24",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question_id": 121,
+    "question_text": "All doctors are educated.\nSome educated people are writers.\n\nWhich statement could be true?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 586,
+        "text": "All writers are doctors",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 587,
+        "text": "Some doctors may be writers",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 588,
+        "text": "No doctors are educated",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 589,
+        "text": "All educated people are writers",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question_id": 122,
+    "question_text": "If A is taller than B, and B is taller than C, who is tallest?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 590,
+        "text": "A",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 591,
+        "text": "B",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 592,
+        "text": "C",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 593,
+        "text": "Cannot be determined",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question_id": 123,
+    "question_text": "If it rains, the ground becomes wet.\nThe ground is wet.\n\nWhat can we conclude?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 594,
+        "text": "It definitely rained",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 595,
+        "text": "It may have rained",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 596,
+        "text": "Rain is impossible",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 597,
+        "text": "The ground is dry",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question_id": 124,
+    "question_text": "Find the odd one out:\n\nCircle, Triangle, Square, Mango",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 598,
+        "text": "Circle",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 599,
+        "text": "Triangle",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 600,
+        "text": "Square",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 601,
+        "text": "Mango",
+        "value": 1,
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question_id": 125,
+    "question_text": "A clock shows 3:00. What angle is formed between the hour and minute hands?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 602,
+        "text": "45°",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 603,
+        "text": "60°",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 604,
+        "text": "90°",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 605,
+        "text": "120°",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question_id": 126,
+    "question_text": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 606,
+        "text": "All roses fade quickly",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 607,
+        "text": "Some roses may fade quickly",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 608,
+        "text": "No roses fade quickly",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 609,
+        "text": "Flowers are not plants",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question_id": 127,
+    "question_text": "A code language changes:\n\nCAT → DBU\n\nHow would DOG be written?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 610,
+        "text": "EPH",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 611,
+        "text": "EOG",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 612,
+        "text": "FPH",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 613,
+        "text": "DPH",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question_id": 128,
+    "question_text": "Four students stand in a line:\n\n* Ravi is taller than Namay\n* Namay is taller than Karan\n* Karan is taller than Neel\n\nWho is shortest?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 614,
+        "text": "Ravi",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 615,
+        "text": "Namay",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 616,
+        "text": "Karan",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 617,
+        "text": "Neel",
+        "value": 1,
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question_id": 129,
+    "question_text": "A statement is followed by two conclusions.\n\nStatement:\n\"All athletes exercise regularly.\"\n\nConclusions:\n\n1. Exercise is important for athletes.\n2. Non-athletes never exercise.\n\nWhich follows logically?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 618,
+        "text": "Only 1",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 619,
+        "text": "Only 2",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 620,
+        "text": "Both",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 621,
+        "text": "Neither",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question_id": 130,
+    "question_text": "A train leaves at 4 PM and reaches at 8 PM. Another train leaves at 5 PM and reaches at 7 PM.\n\nWhich train travels for a longer time?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 622,
+        "text": "First train",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 623,
+        "text": "Second train",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 624,
+        "text": "Both equal",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 625,
+        "text": "Cannot determine",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question_id": 131,
+    "question_text": "A person walks:\n\n* 5 km north\n* then 3 km east\n* then 5 km south\n\nWhere are they now relative to the starting point?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 626,
+        "text": "3 km east",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 627,
+        "text": "3 km west",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 628,
+        "text": "5 km north",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 629,
+        "text": "Starting point",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question_id": 132,
+    "question_text": "If:\n\n* Some books are expensive\n* All expensive things are valuable\n\nWhich statement must be true?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 630,
+        "text": "All books are valuable",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 631,
+        "text": "Some books may be valuable",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 632,
+        "text": "No books are valuable",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 633,
+        "text": "Valuable things are books",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question_id": 133,
+    "question_text": "A sequence follows this pattern:\n\nA, C, F, J, O, ?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 634,
+        "text": "S",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 635,
+        "text": "T",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 636,
+        "text": "U",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 637,
+        "text": "V",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question_id": 134,
+    "question_text": "Three friends — Aryan, Kabir, and Neel — each like a different sport:\n\n* Cricket\n* Football\n* Basketball\n\nClues:\n\n* Aryan does not like football\n* Kabir likes basketball\n\nWho likes cricket?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 638,
+        "text": "Aryan",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 639,
+        "text": "Kabir",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 640,
+        "text": "Neel",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 641,
+        "text": "Cannot determine",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question_id": 135,
+    "question_text": "If every student in a class owns either a laptop or a tablet, and some students own both, which statement is definitely true?",
+    "section": "logical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "logical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 642,
+        "text": "No student owns both",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 643,
+        "text": "Every student owns at least one device",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 644,
+        "text": "Every student owns a laptop",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 645,
+        "text": "Tablets are more common",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question_id": 136,
+    "question_text": "A class has:\n\n* 20 students who like cricket\n* 15 who like football\n* 5 who like both\n\nHow many students like only cricket?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 646,
+        "text": "10",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 647,
+        "text": "15",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 648,
+        "text": "20",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 649,
+        "text": "25",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question_id": 137,
+    "question_text": "Sales of a store increased from 120 units to 150 units.\n\nWhat was the percentage increase?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 650,
+        "text": "20%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 651,
+        "text": "25%",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 652,
+        "text": "30%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 653,
+        "text": "35%",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question_id": 138,
+    "question_text": "A student studies:\n\n* 2 hours on Monday\n* 3 hours on Tuesday\n* 5 hours on Wednesday\n\nWhat is the average study time?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 654,
+        "text": "2 hours",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 655,
+        "text": "3 hours",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 656,
+        "text": "3.3 hours",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 657,
+        "text": "4 hours",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question_id": 139,
+    "question_text": "A company has:\n\n* 60 employees\n* 40 use Windows\n* 30 use Mac\n* 10 use both\n\nHow many employees use only Windows?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 658,
+        "text": "20",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 659,
+        "text": "30",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 660,
+        "text": "40",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 661,
+        "text": "50",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question_id": 140,
+    "question_text": "A student scores:\n\n* 70 in Math\n* 80 in Science\n* 90 in English\n\nIf each subject has equal weight, what is the overall average?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 662,
+        "text": "75",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 663,
+        "text": "80",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 664,
+        "text": "85",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 665,
+        "text": "90",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question_id": 141,
+    "question_text": "A shop sells:\n\n* 40 phones in Week 1\n* 60 in Week 2\n* 80 in Week 3\n\nBy how many phones did sales increase from Week 1 to Week 3?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 666,
+        "text": "20",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 667,
+        "text": "30",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 668,
+        "text": "40",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 669,
+        "text": "50",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question_id": 142,
+    "question_text": "A bus travels:\n\n* 120 km in 2 hours\n* then 180 km in 3 hours\n\nWhat is the average speed for the whole journey?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 670,
+        "text": "50 km/h",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 671,
+        "text": "55 km/h",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 672,
+        "text": "60 km/h",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 673,
+        "text": "65 km/h",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question_id": 143,
+    "question_text": "A survey found:\n\n* 70 students like Science\n* 50 like Math\n* 20 like both\n\nHow many students like only Science?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 75,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 674,
+        "text": "30",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 675,
+        "text": "40",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 676,
+        "text": "50",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 677,
+        "text": "60",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question_id": 144,
+    "question_text": "A company's profits were:\n\n* ₹2 lakh in January\n* ₹3 lakh in February\n* ₹5 lakh in March\n\nWhat percentage of the total profit came from March?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 90,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 678,
+        "text": "30%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 679,
+        "text": "40%",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 680,
+        "text": "50%",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 681,
+        "text": "60%",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question_id": 145,
+    "question_text": "A project requires:\n\n* 12 days with 5 workers\n\nAssuming equal efficiency, how many workers are needed to complete it in 4 days?",
+    "section": "analytical",
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "reverse_scored": false,
+    "expected_time_seconds": 90,
+    "is_active": true,
+    "trait_weights": {
+      "analytical_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 682,
+        "text": "10",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 683,
+        "text": "12",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 684,
+        "text": "15",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 685,
+        "text": "20",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question_id": 146,
+    "question_text": "Choose the word closest in meaning to \"Rapid\".",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 30,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 686,
+        "text": "Slow",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 687,
+        "text": "Fast",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 688,
+        "text": "Weak",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 689,
+        "text": "Calm",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question_id": 147,
+    "question_text": "If someone is \"meticulous\", they are:",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 30,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 690,
+        "text": "Careless",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 691,
+        "text": "Very careful",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 692,
+        "text": "Lazy",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 693,
+        "text": "Angry",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question_id": 148,
+    "question_text": "Choose the word opposite in meaning to \"Expand\".",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 30,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 694,
+        "text": "Grow",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 695,
+        "text": "Stretch",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 696,
+        "text": "Reduce",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 697,
+        "text": "Increase",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question_id": 149,
+    "question_text": "Book is to Reading as Fork is to:",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 698,
+        "text": "Writing",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 699,
+        "text": "Eating",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 700,
+        "text": "Cooking",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 701,
+        "text": "Drawing",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question_id": 150,
+    "question_text": "Teacher is to School as Doctor is to:",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "easy",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 702,
+        "text": "Court",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 703,
+        "text": "Office",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 704,
+        "text": "Hospital",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 705,
+        "text": "Factory",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question_id": 151,
+    "question_text": "Rahul studied regularly for several months before his exam. On exam day, he felt confident and calm.\n\nWhy was Rahul likely calm?",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 706,
+        "text": "He guessed the answers",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 707,
+        "text": "He had prepared well",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 708,
+        "text": "The exam was canceled",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 709,
+        "text": "He did not care about the result",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question_id": 152,
+    "question_text": "A company introduced flexible work hours. After a few months, employee satisfaction increased.\n\nWhat is the most reasonable conclusion?",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 710,
+        "text": "Flexible hours may improve satisfaction",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 711,
+        "text": "Employees stopped working",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 712,
+        "text": "Salaries were reduced",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 713,
+        "text": "The company closed",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question_id": 153,
+    "question_text": "Choose the sentence with the clearest meaning.",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 714,
+        "text": "The meeting because delayed traffic was.",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 715,
+        "text": "Traffic delayed the meeting.",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 716,
+        "text": "Delayed because traffic meeting.",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 717,
+        "text": "Meeting traffic because delayed.",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question_id": 154,
+    "question_text": "Which sentence is logically correct?",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 45,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 718,
+        "text": "Every student are present.",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 719,
+        "text": "Every students is present.",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 720,
+        "text": "Every student is present.",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 721,
+        "text": "Every student were present.",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question_id": 155,
+    "question_text": "Priya said, \"I'll finish the project even if it takes extra time.\"\n\nWhat does this suggest about Priya?",
+    "section": "verbal",
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "reverse_scored": false,
+    "expected_time_seconds": 60,
+    "is_active": true,
+    "trait_weights": {
+      "verbal_reasoning": 1.0
+    },
+    "options": [
+      {
+        "option_id": 722,
+        "text": "She avoids responsibility",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 723,
+        "text": "She is committed to completing the work",
+        "value": 1,
+        "is_correct": true
+      },
+      {
+        "option_id": 724,
+        "text": "She dislikes projects",
+        "value": 0,
+        "is_correct": false
+      },
+      {
+        "option_id": 725,
+        "text": "She wants someone else to do it",
+        "value": 0,
+        "is_correct": false
+      }
+    ]
+  }
+]

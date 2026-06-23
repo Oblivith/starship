@@ -1,0 +1,40 @@
+PROJECT: Career Counseling AI System
+
+Backend:
+Python
+FastAPI
+PostgreSQL
+
+Main Engine:
+score_assessment.py
+
+Pipeline:
+Assessment
+Career Matching
+Career Strategy
+Exam Intelligence
+Program Mapping
+University Filtering
+University Intelligence Score
+Scholarships
+Financial Risk Analysis
+Admission Competitiveness
+Admission Probability Model
+
+Dataset:
+9375 universities
+5 scholarships
+8 programs
+3 careers
+
+Design Decisions:
+• Do not remove existing engine code
+• Only add new functionality
+• Keep explainable scoring
+• Keep subject-specific university rankings
+• Hybrid filtering approach (filter then rank)
+
+Goal:
+AI system that helps students decide careers, exams,
+universities, scholarships, and financial feasibility.
+India-focused with curated international universities.

@@ -1,0 +1,52 @@
+<svg viewBox="0 0 180 220" xmlns="http://www.w3.org/2000/svg" class="constellation" data-name="Stethoscope">
+  <g class="constellation-lines" opacity="0">
+    <!-- Earpiece left -->
+    <line x1="55" y1="25" x2="55" y2="45" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Earpiece right -->
+    <line x1="125" y1="25" x2="125" y2="45" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Top bar connecting ears -->
+    <line x1="55" y1="25" x2="125" y2="25" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Left tube down and curving -->
+    <line x1="55" y1="45" x2="55" y2="90" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="55" y1="90" x2="68" y2="110" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Right tube down and curving -->
+    <line x1="125" y1="45" x2="125" y2="90" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="125" y1="90" x2="112" y2="110" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Tubes meet -->
+    <line x1="68" y1="110" x2="90" y2="118" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="112" y1="110" x2="90" y2="118" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Single tube down to chest piece -->
+    <line x1="90" y1="118" x2="90" y2="165" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <!-- Chest piece circle -->
+    <line x1="90" y1="165" x2="108" y2="170" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="108" y1="170" x2="115" y2="185" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="115" y1="185" x2="108" y2="200" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="108" y1="200" x2="90" y2="205" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="90" y1="205" x2="72" y2="200" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="72" y1="200" x2="65" y2="185" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="65" y1="185" x2="72" y2="170" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="72" y1="170" x2="90" y2="165" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+  </g>
+  <g class="constellation-stars">
+    <circle cx="55" cy="25" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="125" cy="25" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="55" cy="45" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="125" cy="45" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="55" cy="90" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="125" cy="90" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="68" cy="110" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="112" cy="110" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="90" cy="118" r="2.5" fill="#E8E4FF" opacity="0.75"/>
+    <circle cx="90" cy="165" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <!-- Chest piece octagon -->
+    <circle cx="108" cy="170" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="115" cy="185" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="108" cy="200" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="90" cy="205" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="72" cy="200" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="65" cy="185" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="72" cy="170" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <!-- Center of chest piece - brightest -->
+    <circle cx="90" cy="185" r="3.5" fill="#F0EEFF" opacity="0.95"/>
+  </g>
+</svg>

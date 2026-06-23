@@ -1,0 +1,27 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+desktop.ini
+Icon
+Icon$'\r'
+
+# Secrets / credentials
+"docs/client secret file (do not read claude).json"
+docs/client\ secret\ file*.json
+
+# DB dumps (keep migrations/ tracked)
+dump.sql
+data_dump.sql
+*_backup.sql

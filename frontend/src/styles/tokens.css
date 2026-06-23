@@ -1,0 +1,175 @@
+/* ============================================================================
+   PROJECT STARSHIP — Design Tokens
+   Single source of truth for colour + typography + motion.
+   Imported once in main.jsx. Components reference these variables; they do not
+   hard-code palette values (the only exceptions are colours Framer Motion must
+   interpolate, which CSS variables can't do — those mirror the tokens below).
+   ============================================================================ */
+
+:root {
+  /* ---------- Backgrounds ---------- */
+  --void:   #04061A;   /* page background          */
+  --deep:   #0F0E2A;   /* card background          */
+  --nebula: #26215C;   /* elevated surface         */
+
+  /* ---------- Brand purple ---------- */
+  --violet:   #5B52B8; /* primary buttons, accents (softened) */
+  --lavender: #7F77DD; /* hover states             */
+  --stardust: #C8B8FF; /* text on dark, badge text */
+  --haze:     #EEEDFE; /* light badge backgrounds  */
+
+  /* ---------- Accent teal ---------- */
+  --aurora: #1E9E78;   /* secondary accent (softened) */
+  --mint:   #5DCAA5;   /* teal mid                 */
+  --glow:   #4DD9B8;   /* teal light, AI elements (softened) */
+
+  /* ---------- Semantic ---------- */
+  --gold:  #EF9F27;    /* scholarships, financial  */
+  --warm:  #FAC775;    /* gold light               */
+  --coral: #D85A30;    /* alerts, warnings         */
+
+  /* ---------- Text ---------- */
+  --text-primary:   #FFFFFF;
+  --text-secondary: rgba(255, 255, 255, 0.55);
+  --text-tertiary:  rgba(255, 255, 255, 0.30);
+
+  /* ---------- Gradients ---------- */
+  --gradient-brand: linear-gradient(90deg, var(--violet), var(--lavender));  /* buttons, progress */
+  --gradient-teal:  linear-gradient(135deg, var(--aurora), var(--glow));     /* AI elements */
+  --gradient-gold:  linear-gradient(135deg, var(--gold), var(--warm));       /* scholarships */
+
+  /* ---------- RIASEC category colours ----------
+     All six confirmed. Five came from the design direction; Conventional (C)
+     was supplied by the user afterwards (the doc originally omitted it). */
+  --riasec-r-bg: #534AB7;  --riasec-r-text: #C8B8FF;  /* Realistic     — violet */
+  --riasec-i-bg: #1D9E75;  --riasec-i-text: #4DDFBD;  /* Investigative — teal   */
+  --riasec-a-bg: #D4537E;  --riasec-a-text: #F4C0D1;  /* Artistic      — pink   */
+  --riasec-s-bg: #EF9F27;  --riasec-s-text: #FAC775;  /* Social        — amber  */
+  --riasec-e-bg: #D85A30;  --riasec-e-text: #F0997B;  /* Enterprising  — coral  */
+  --riasec-c-bg: #2E5FA3;  --riasec-c-text: #A8C4F0;  /* Conventional  — blue (user-confirmed) */
+
+  /* ---------- Bubble scale (assessment) ----------
+     red → (interp) → grey → (interp) → purple. Positions 2 & 4 are the
+     midpoints the design doc implies between the three named anchors. */
+  --bubble-1: #E24B4A;  /* 1 strong dislike — red             */
+  --bubble-2: #B56965;  /* 2 — interpolated red→grey          */
+  --bubble-3: #888780;  /* 3 neutral — grey                   */
+  --bubble-4: #6E699C;  /* 4 — interpolated grey→purple       */
+  --bubble-5: #534AB7;  /* 5 strong like — purple             */
+
+  /* ---------- Typography ---------- */
+  --font-sans:  -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-serif: 'Lora', Georgia, serif;
+  --fw-regular: 400;
+  --fw-medium:  500;            /* design rule: never heavier than 500 */
+
+  --fs-hero:     clamp(46px, 5vw, 56px);
+  --fs-section:  clamp(28px, 3.2vw, 32px);
+  --fs-question: 26px;          /* assessment question text */
+  --fs-body:     16px;
+  --fs-body-sm:  15px;
+  --fs-caption:  12px;          /* 11–12px range */
+
+  --lh-body:    1.8;
+  --lh-tight:   1.2;
+  --ls-caption: 0.14em;         /* 0.12–0.16em range */
+  --ls-heading: 0.01em;         /* subtle positive tracking on headings */
+
+  /* ---------- Motion ---------- */
+  --ease-emphasis: cubic-bezier(0.4, 0, 0.2, 1);
+  --dur-question:  350ms;       /* assessment slide */
+
+  /* ---------- Shape ---------- */
+  --radius-card: 16px;
+  --radius-md:   10px;   /* default button border-radius */
+  --radius-pill: 999px;
+
+  /* ---------- Button sizing ---------- */
+  --btn-py:    10px;    /* default vertical padding  */
+  --btn-px:    20px;    /* default horizontal padding */
+  --btn-py-sm:  6px;    /* small vertical padding     */
+  --btn-px-sm: 16px;    /* small horizontal padding   */
+
+  /* ---------- Text aliases ---------- */
+  --moonstone: rgba(255, 255, 255, 0.55); /* body text in cards = --text-secondary */
+
+  /* ---------- Glow (design rule: glow, NEVER heavy drop shadows) ---------- */
+  --glow-violet: 0 0 24px rgba(83, 74, 183, 0.45);
+  --glow-teal:   0 0 24px rgba(77, 223, 189, 0.40);
+  --glow-gold:   0 0 24px rgba(239, 159, 39, 0.35);
+}
+
+/* ---------- Base ---------- */
+* { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  background-color: var(--void);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-weight: var(--fw-regular);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings carry a touch of positive tracking for warmth + legibility on dark. */
+h1, h2, h3, h4 { letter-spacing: var(--ls-heading); }
+
+::selection { background: var(--violet); color: var(--text-primary); }
+
+/* ---------- Serif headings — content pages (not Assessment) ---------- */
+.page-serif h1,
+.page-serif h2,
+.page-serif h3 {
+  font-family: var(--font-serif);
+}
+
+/* ---------- Shared utility classes ---------- */
+.starship-caption {
+  font-size: var(--fs-caption);
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--ls-caption);
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+/* Mobile: reduce the hero font so the text block fits above the city silhouette. */
+@media (max-width: 768px) {
+  :root {
+    --fs-hero: clamp(34px, 9vw, 40px);
+  }
+}
+
+/* ---------- Keyboard focus visibility (a11y) ----------
+   Many interactive elements set `outline:none` inline, or rely on the browser
+   default outline which is invisible against the dark void. `:focus-visible` only
+   matches keyboard/AT focus (not mouse clicks), so this adds a clear focus ring for
+   keyboard users without changing any mouse or resting appearance. `!important`
+   lets it override the inline `outline:none` on the elements that set it — but only
+   while they are keyboard-focused. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:not([tabindex="-1"]):focus-visible {
+  outline: 2px solid var(--stardust) !important;
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* Global reduced-motion safety net. Components also guard individually via
+   Framer Motion's useReducedMotion(), which this CSS rule does not reach. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

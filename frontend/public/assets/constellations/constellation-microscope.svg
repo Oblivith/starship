@@ -1,0 +1,26 @@
+<svg viewBox="0 0 160 220" xmlns="http://www.w3.org/2000/svg" class="constellation" data-name="Microscope">
+  <g class="constellation-lines" opacity="0">
+    <line x1="55" y1="195" x2="105" y2="195" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="80" y1="195" x2="80" y2="158" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="80" y1="158" x2="105" y2="158" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="105" y1="158" x2="105" y2="75" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="95" y1="75" x2="115" y2="75" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="99" y1="128" x2="111" y2="128" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="65" y1="150" x2="99" y2="150" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+    <line x1="65" y1="150" x2="65" y2="158" stroke="#C8C0F8" stroke-width="0.8" opacity="0.6"/>
+  </g>
+  <g class="constellation-stars">
+    <circle cx="55" cy="195" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="105" cy="195" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="80" cy="195" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="80" cy="158" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="105" cy="158" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="105" cy="75" r="3" fill="#F0EEFF" opacity="0.9"/>
+    <circle cx="95" cy="75" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="115" cy="75" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="99" cy="128" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="111" cy="128" r="2" fill="#E8E4FF" opacity="0.65"/>
+    <circle cx="65" cy="150" r="2.2" fill="#E8E4FF" opacity="0.7"/>
+    <circle cx="99" cy="150" r="2" fill="#E8E4FF" opacity="0.65"/>
+  </g>
+</svg>

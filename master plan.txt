@@ -1,0 +1,447 @@
+# Career Assessment System V2 — Master Plan
+
+## Vision
+
+Transform the current aptitude test into a modern, multi-dimensional career assessment platform.
+
+The new system should:
+
+* feel professional
+* produce more accurate recommendations
+* measure multiple dimensions separately
+* support adaptive AI counseling
+* become the foundation of the entire platform
+
+---
+
+# CORE DESIGN PRINCIPLES
+
+## 1. Separate Different Types of Assessment
+
+The current system mixes:
+
+* interests
+* aptitude
+* personality
+* constraints
+
+V2 should separate them clearly.
+
+---
+
+## 2. Move From Binary Choices → Scaled Responses
+
+Current:
+
+* forced choice
+* one trait per answer
+
+New:
+
+* Likert scale
+* weighted scoring
+* multiple dimensions affected per question
+
+Example:
+
+"I enjoy solving complex analytical problems"
+
+1 = Strongly Disagree
+2 = Disagree
+3 = Neutral
+4 = Agree
+5 = Strongly Agree
+
+---
+
+## 3. Treat Assessment Like a Real System
+
+The goal is NOT:
+
+* random quiz
+* personality gimmick
+
+The goal IS:
+
+* long-term suitability analysis
+* educational decision support
+* realistic pathway guidance
+
+---
+
+# ASSESSMENT STRUCTURE
+
+# SECTION A — INTERESTS (RIASEC)
+
+## Goal
+
+Measure what environments and activities the student naturally prefers.
+
+## Dimensions
+
+* Realistic
+* Investigative
+* Artistic
+* Social
+* Enterprising
+* Conventional
+
+## Improvements
+
+Current:
+
+* ~2 questions per dimension
+
+Target:
+
+* 6–8 questions per dimension
+
+Total:
+
+* ~40 RIASEC questions
+
+## Question Style
+
+Use:
+
+* preferences
+* enjoyment
+* environment fit
+
+Avoid:
+
+* direct self-labeling
+
+Good Example:
+"I enjoy understanding how machines or systems work"
+
+Bad Example:
+"I am intelligent"
+
+---
+
+# SECTION B — COGNITIVE APTITUDE
+
+## Goal
+
+Measure actual problem-solving ability.
+
+---
+
+## B1 — Numerical Reasoning
+
+### Include
+
+* percentages
+* ratios
+* algebra
+* sequences
+* probability
+* rates/work
+* data interpretation
+
+### Difficulty Levels
+
+* Easy
+* Medium
+* Hard
+
+### Question Count
+
+* 15–20
+
+---
+
+## B2 — Logical Reasoning
+
+### Include
+
+* syllogisms
+* assumptions
+* coding-decoding
+* arrangements
+* deduction
+* patterns
+
+### Question Count
+
+* 15–20
+
+---
+
+## B3 — Analytical Reasoning
+
+### Include
+
+* multi-step problems
+* graphs/tables
+* interpretation
+* case-based reasoning
+* conditional reasoning
+
+### Question Count
+
+* 10–15
+
+---
+
+## B4 — Verbal Ability
+
+### Include
+
+* reading comprehension
+* vocabulary
+* analogies
+* inference
+* sentence correction
+
+### Question Count
+
+* 10–15
+
+---
+
+# SECTION C — WORK STYLE & PERSONALITY
+
+## Goal
+
+Measure how the student approaches work, pressure, structure, and collaboration.
+
+## Suggested Dimensions
+
+* discipline
+* resilience
+* leadership
+* empathy
+* autonomy
+* collaboration
+* structure preference
+* stress tolerance
+* adaptability
+
+## IMPORTANT CHANGE
+
+Current issue:
+"risk_tolerance" is overloaded.
+
+Create separate dimensions for:
+
+* impulsiveness
+* consistency
+* resilience
+* decision-making
+
+---
+
+# SECTION D — CONSTRAINTS & PREFERENCES
+
+## Goal
+
+Measure practical constraints.
+
+## Keep Existing Strengths
+
+* budget
+* mobility
+* study tolerance
+* exam tolerance
+* willingness to relocate
+* willingness to study abroad
+
+This section is already strong.
+
+---
+
+# SCORING SYSTEM V2
+
+# CURRENT PROBLEM
+
+Current scoring:
+
+* single trait mapping
+* equal weighting
+* simplistic aggregation
+
+---
+
+# NEW MODEL
+
+## Weighted Contribution
+
+Example:
+
+Question:
+"I enjoy solving analytical problems"
+
+Contributes:
+
+* Investigative = +0.7
+* Analytical = +0.3
+
+---
+
+## Normalized Scores
+
+Convert raw scores into:
+
+* percentages
+* percentile estimates
+* confidence ranges
+
+---
+
+## Separate Interest vs Ability
+
+A student may:
+
+* enjoy something
+* but not currently perform well in it
+
+The system should distinguish:
+
+* preference
+* capability
+* readiness
+
+---
+
+# ADAPTIVE TESTING (FUTURE)
+
+## Goal
+
+Change question difficulty dynamically.
+
+Example:
+
+* strong numerical performance → harder numerical questions
+* weak verbal performance → easier verbal questions
+
+This creates:
+
+* shorter tests
+* more accurate results
+* better engagement
+
+---
+
+# UI SYSTEM
+
+# Frontend Recommendation
+
+## Stack
+
+* React
+* Tailwind CSS
+* FastAPI backend
+
+---
+
+# Required UI Features
+
+## Assessment Interface
+
+* MCQ buttons
+* section navigation
+* progress bar
+* timer
+* smooth transitions
+* question bookmarking
+* autosave
+
+---
+
+## Timer System
+
+Recommended:
+
+* separate timer per section
+
+Example:
+
+* Numerical: 15 min
+* Logical: 15 min
+* Verbal: 10 min
+
+---
+
+## Results Dashboard
+
+Display:
+
+* RIASEC radar chart
+* aptitude scores
+* strongest dimensions
+* weakest dimensions
+* recommended careers
+* safe careers
+* aspirational careers
+
+---
+
+# AI COUNSELOR VISION
+
+The AI should become:
+
+* persistent
+* contextual
+* explainable
+
+Eventually it should:
+
+* remember previous conversations
+* track goals
+* suggest preparation strategies
+* compare universities
+* explain tradeoffs
+* generate roadmaps
+
+---
+
+# UNIVERSITY INTELLIGENCE VISION
+
+The platform should recommend universities based on:
+
+* career fit
+* affordability
+* subject strength
+* admission probability
+* stress/workload
+* placement quality
+* ROI
+* geography
+* student preferences
+
+NOT just rankings.
+
+---
+
+# PRIORITY ROADMAP
+
+# PHASE 1
+
+* Rebuild assessment structure
+* Expand question bank
+* Build proper frontend UI
+* Improve scoring system
+
+# PHASE 2
+
+* Add adaptive logic
+* Improve AI reasoning
+* Add memory/context
+
+# PHASE 3
+
+* Add predictive analytics
+* Add application tracking
+* Add longitudinal student profiles
+
+---
+
+# FINAL POSITIONING
+
+This project is NOT just:
+"career recommendation"
+
+It is:
+"An AI-powered educational and career decision intelligence platform."
